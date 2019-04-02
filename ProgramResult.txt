@@ -1,0 +1,231 @@
+Telephone brand: iPhone
+Telephone brand: iPhone-6
+Display size: 4.7
+Expansion: 1337
+Processor: 1.4
+Accumulation: 64
+Main camera: 8
+Front camera: 1.2
+Battarey: 1810
+Weight: 129
+
+Telephone brand: iPhone
+Telephone brand: iPhone-6-Plus
+Display size: 5.5
+Expansion: 1920
+Processor: 1400
+Accumulation: 64
+Main camera: 8
+Front camera: 1.2
+Battarey: 2915
+Weight: 172
+
+Telephone brand: iPhone
+Telephone brand: iPhone-6-s
+Display size: 4.7
+Expansion: 1334
+Processor: 1850
+Accumulation: 128
+Main camera: 12
+Front camera: 5
+Battarey: 1715
+Weight: 143
+
+Telephone brand: iPhone
+Telephone brand: iPhone-6-s_Plus
+Display size: 5.5
+Expansion: 1920
+Processor: 1850
+Accumulation: 128
+Main camera: 12
+Front camera: 5
+Battarey: 2750
+Weight: 192
+
+Telephone brand: iPhone
+Telephone brand: iPhone-SE
+Display size: 4
+Expansion: 1136
+Processor: 1850
+Accumulation: 128
+Main camera: 12
+Front camera: 1.2
+Battarey: 1624
+Weight: 113
+
+Telephone brand: iPhone
+Telephone brand: iPhone-7
+Display size: 4.7
+Expansion: 1334
+Processor: 2340
+Accumulation: 256
+Main camera: 12
+Front camera: 7
+Battarey: 1960
+Weight: 138
+
+Telephone brand: iPhone
+Telephone brand: iPhone-7-Plus
+Display size: 5.5
+Expansion: 1920
+Processor: 2340
+Accumulation: 256
+Main camera: 12
+Front camera: 7
+Battarey: 2900
+Weight: 188
+
+Telephone brand: iPhone
+Telephone brand: iPhone-8
+Display size: 4.7
+Expansion: 1334
+Processor: 2380
+Accumulation: 256
+Main camera: 12
+Front camera: 7
+Battarey: 1821
+Weight: 188
+
+Telephone brand: iPhone
+Telephone brand: iPhone-8-Plus
+Display size: 5.5
+Expansion: 1920
+Processor: 2380
+Accumulation: 256
+Main camera: 12
+Front camera: 7
+Battarey: 2691
+Weight: 188
+
+Telephone brand: iPhone
+Telephone brand: iPhone-X
+Display size: 5.8
+Expansion: 2436
+Processor: 2380
+Accumulation: 256
+Main camera: 12
+Front camera: 7
+Battarey: 2716
+Weight: 188
+
+Telephone brand: Xiaomi
+Telephone brand: Xiaomi-Redmi-3-Pro
+Display size: 5.5
+Expansion: 1920
+Processor: 1800
+Accumulation: 32
+Main camera: 16
+Front camera: 5
+Battarey: 4050
+Weight: 164
+
+Telephone brand: Xiaomi
+Telephone brand: Xiaomi-Redmi-Note-4
+Display size: 5.5
+Expansion: 1920
+Processor: 2100
+Accumulation: 64
+Main camera: 13
+Front camera: 5
+Battarey: 4100
+Weight: 175
+
+Telephone brand: Xiaomi
+Telephone brand: Xiaomi-Redmi-Pro
+Display size: 5.5
+Expansion: 1920
+Processor: 2300
+Accumulation: 128
+Main camera: 13
+Front camera: 5
+Battarey: 4050
+Weight: 174
+
+Telephone brand: Samsung
+Telephone brand: Samsung-Galaxy-S10-Pмлл@
+Display size: 6.4
+Expansion: 2200
+Processor: 4000
+Accumulation: 256
+Main camera: 16
+Front camera: 8
+Battarey: 4100
+Weight: 190
+
+Telephone brand: Samsung
+Telephone brand: Samsung-Galaxy-S10-E
+Display size: 6
+Expansion: 2100
+Processor: 4000
+Accumulation: 256
+Main camera: 16
+Front camera: 8
+Battarey: 4200
+Weight: 186
+
+Telephone brand: Samsung
+Telephone brand: Samsung-Galaxy-S10-G
+Display size: 6
+Expansion: 2000
+Processor: 3500
+Accumulation: 256
+Main camera: 16
+Front camera: 8
+Battarey: 3900
+Weight: 180
+
+Telephone brand: Samsung
+Telephone brand: Samsung-Galaxy-S10
+Display size: 5800
+Expansion: 1950
+Processor: 3000
+Accumulation: 256
+Main camera: 16
+Front camera: 8
+Battarey: 4000
+Weight: 175
+
+Telephone brand: Meizu
+Telephone brand: Meizu-Note-9
+Display size: 6.2
+Expansion: 2250
+Processor: 2000
+Accumulation: 64
+Main camera: 12
+Front camera: 5
+Battarey: 2500
+Weight: 170
+
+Telephone brand: Meizu
+Telephone brand: Meizu-M8-Lite
+Display size: 5.7
+Expansion: 1950
+Processor: 1500
+Accumulation: 32
+Main camera: 10
+Front camera: 4
+Battarey: 2300
+Weight: 145
+
+Telephone brand: Meizu
+Telephone brand: Meiz-C9
+Display size: 5.4
+Expansion: 1800
+Processor: 1300
+Accumulation: 16
+Main camera: 8
+Front camera: 3
+Battarey: 1700
+Weight: 150
+
+Telephone brand: Meizu
+Telephone brand: Meizu-M8
+Display size: 5.7
+Expansion: 2250
+Processor: 2000
+Accumulation: 64
+Main camera: 12
+Front camera: 5
+Battarey: 2100
+Weight: 159
+
