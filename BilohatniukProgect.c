@@ -6,7 +6,7 @@
 
 #define FILE_NAME "phoneResours.txt"
 #define RESULT_FILE "ProgramResult.txt"
-//test gir brach
+
 
 typedef struct {
 	char brand[20];
